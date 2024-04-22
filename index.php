@@ -15,6 +15,7 @@ include 'conn.php';
 		<input type="submit" name="save" value="save">
 	</form>
 	<?php
+	
 		if (isset($_POST['save'])) {
 			$fname = $_POST['fn'];
 			$lname = $_POST['ln'];
