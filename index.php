@@ -29,7 +29,7 @@ include 'conn.php';
 			margin: 5px;
 		}
 		table, td, th {
-		  border: 1px solid black;
+		  border: 5px solid black;
 		}
 		td{
 			text-align: center;
