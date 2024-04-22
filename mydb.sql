@@ -1,0 +1,5 @@
+CREATE TABLE mydb(
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
+    firstname VARCHAR(255) NOT NULL,
+    lastname VARCHAR(255) NOT NULL
+);
